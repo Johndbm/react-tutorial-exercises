@@ -7,9 +7,13 @@ const navlinkItems = [
 		<a className="nav-link" href="#">
 			Link to google.com
 		</a>
+	</li>,
+	<li className="nav-item">
 		<a className="nav-link" href="#">
 			Link to facebook.com
 		</a>
+	</li>,
+	<li className="nav-item">
 		<a className="nav-link" href="#">
 			Link to amazon.com
 		</a>
